@@ -1,0 +1,34 @@
+
+#cadastro{
+    color: #CFAF3C;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:20px;
+    border: 20px solid #F5D046;
+    border-radius: 30px;
+}
+#formulario{
+    line-height: 1.5cm;
+    color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:20px;
+
+}
+#login{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:20px;
+}
+#linha{
+    text-align: center ;
+    width: 20px;
+    
+}
+::placeholder{
+    font-family: Arial, Helvetica, sans-serif;
+}
+option{
+    color: gray;
+}
+
